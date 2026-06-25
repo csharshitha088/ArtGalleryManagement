@@ -9,8 +9,8 @@
       </ul>
    </div>
    <div class="copyright">
-      <div class="footer text-center">Design & Develop By Mayuri K | Visit : www.mayurik.com</div>
-      &copy; MayuriK Artwork Online Studio.All rights reserved.
+      <div class="footer text-center">Design & Develop By Harshitha CS</div>
+      &copy; Harshitha CS Artwork Online Studio.All rights reserved.
    </div>
 </footer>
 <!-- Scripts -->
